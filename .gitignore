@@ -1,0 +1,9 @@
+# Environments
+.env
+__pycache__/
+
+# Visual Studio Code
+.vscode/
+
+# Vector Database
+index/
